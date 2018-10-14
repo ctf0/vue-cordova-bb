@@ -7,3 +7,4 @@
   + https://cordova.apache.org/docs/en/latest/guide/platforms/android/
   + https://cordova.apache.org/docs/en/latest/guide/next/#chrome-remote-debugging
   + https://stackoverflow.com/questions/23204202/local-video-files-wont-play-in-cordova-android-app/36086827#36086827
+  + https://github.com/xjxxjx1017/cordova-phonegap-android-sdcard-full-external-storage-access-library
