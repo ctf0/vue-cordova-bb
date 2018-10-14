@@ -7,6 +7,8 @@
   </div>
 </template>
 
+<style src="@/assets/main.scss" lang="scss"></style>
+
 <script>
 export default {
   name: 'App'
