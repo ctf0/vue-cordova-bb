@@ -3,6 +3,15 @@
 
 - `cordova run android` auto runs after `yarn build`
 
+- to save dev build to disk instead of memory use
+```js
+// before
+"dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js"
+
+// after
+"dev": "webpack --watch --progress --config build/webpack.dev.conf.js"
+```
+
 - check
   + https://cordova.apache.org/docs/en/latest/guide/platforms/android/
   + https://cordova.apache.org/docs/en/latest/guide/next/#chrome-remote-debugging
