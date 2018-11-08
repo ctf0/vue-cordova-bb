@@ -20,3 +20,4 @@
 - https://cordova.apache.org/docs/en/latest/guide/next/#chrome-remote-debugging
 - https://stackoverflow.com/questions/23204202/local-video-files-wont-play-in-cordova-android-app/36086827#36086827
 - https://github.com/dpa99c/cordova-diagnostic-plugin
+- https://www.npmjs.com/package/cordova-plugin-cache-clear
