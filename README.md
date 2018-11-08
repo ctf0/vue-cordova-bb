@@ -3,7 +3,7 @@
 - all static files should be added to `root/static` then call it from anywhere as
 `static/my-file`
 
-- `.env` doesnt work, add environment variables directly to either `config/dev.env` or `config/prod.env`
+- `.env` doesnt work, add environment variables directly to either `config/dev.env` or `config/prod.env` [ReadMore](https://github.com/vuejs-templates/webpack/issues/1410)
 
 - `cordova run android` auto runs after `yarn build`
 
